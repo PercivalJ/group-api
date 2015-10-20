@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "TEST"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALFmachine/group-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALFmachine/group-api/issues"
+  },
+  "homepage": "https://github.com/ALFmachine/group-api#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.1.12",
+    "morgan": "^1.6.1"
+  }
+}
